@@ -14,4 +14,4 @@ I created a conda environment in terminal that uses the requirements.txt file (c
 1. conda create -n "insert environment name" python = 3.7
 2. conda activate "insert environment name" 
 3. pip install -r requirements.txt
-
+4. jupyter notebook
